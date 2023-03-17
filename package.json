@@ -4,7 +4,7 @@
   "description": "Call rust from node",
   "main": "index.js",
   "scripts": {
-    "compare": "node index.js",
+    "compare": "node compare.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Andrey Grabarnick",
