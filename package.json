@@ -1,0 +1,15 @@
+{
+  "name": "rustnode",
+  "version": "1.0.0",
+  "description": "Call rust from node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrey Grabarnick",
+  "license": "ISC",
+  "dependencies": {
+    "ffi-napi": "^4.0.3",
+    "node-gyp": "^9.3.1"
+  }
+}
